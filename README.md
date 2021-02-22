@@ -1,2 +1,2 @@
 # TekselShaders
-Collection of some random shaders, written by me
+Collection of some random Unity shaders, written by me
